@@ -9,3 +9,6 @@
   random.seed(t)
   for i in range(5):
   print(random.randint(10,50))
+
+#run the command
+
